@@ -23,7 +23,6 @@ I'm a software developer who loves building meaningful projects and collaboratin
 - 💬 Ask me about anything related to software development or my projects
 - 📫 How to reach me: [Email](mailto:selormayivi5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SelormDev/)
 - 😄 Pronouns: [He/Him]
-<br>
 ## 🚀 Skills and Expertise
 
 - **Languages:** JavaScript, HTML, CSS, Python
@@ -31,7 +30,6 @@ I'm a software developer who loves building meaningful projects and collaboratin
 - **Back-end Frameworks/Libraries:** Node.js
 - **Databases:** MongoDB, MySQL
 - **Tools and Technologies:** Git, VS Code,
-<br>
 <!-- ## 💼 Work Experience
 
 ### [Company Name](https://www.companywebsite.com) | Software Developer | Jan 2020 - Present
@@ -59,7 +57,6 @@ Brief description of the project and your role in it. Mention any interesting or
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=dark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)
-<br>
 
 ## 🤝 Let's Connect
 
