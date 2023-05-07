@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SelormDev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SelormDev/SelormDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
