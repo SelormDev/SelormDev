@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm [Gideo Selorm Ayivi](https://www.yourportfolio.com) 👋
+# Hi there, I'm [Gideon Selorm Ayivi](https://www.yourportfolio.com) 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
 
 
