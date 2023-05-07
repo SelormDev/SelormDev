@@ -31,6 +31,18 @@ I'm a software developer who loves building meaningful projects and collaboratin
 - **Databases:** MongoDB, MySQL
 - **Tools and Technologies:** Git, VS Code,
 <!-- ## 💼 Work Experience
+## 🛠️ My Tech Stack
+
+These are some of the technologies and tools that I work with:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&style=social)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;
+
+
 
 ### [Company Name](https://www.companywebsite.com) | Software Developer | Jan 2020 - Present
 
