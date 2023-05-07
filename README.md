@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 
 <!--
 **SelormDev/SelormDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats)<br> -->
-
-
-
 # Hi there, I'm [Gideon Selorm Ayivi](https://www.linkedin.com/in/SelormDev/) 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
+I'm a [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
 
 
 I'm a software developer who loves building meaningful projects and collaborating with others. My focus is on web development, particularly with JavaScript, React, and Node.js.
