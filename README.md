@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
 
 <!--
 **SelormDev/SelormDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats) <br>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)<br>
+
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats)<br> -->
+
+
+
+# Hi there, I'm [Gideo Selorm Ayivi](https://www.yourportfolio.com) 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
+
+
+I'm a software developer who loves building meaningful projects and collaborating with others. My focus is on web development, particularly with JavaScript, React, and Node.js.
+
+- 🌱 I’m currently learning more about machine learning and data analysis
+- 💬 Ask me about anything related to software development or my projects
+- 📫 How to reach me: [Email](mailto:slormayivi5@example.com) or [LinkedIn](https://www.linkedin.com/in/SelormDev/)
+- 😄 Pronouns: [He/Him]
+
+## 🚀 Skills and Expertise
+
+- **Languages:** JavaScript, HTML, CSS, Python
+- **Front-end Frameworks/Libraries:** React, Bootstrap
+- **Back-end Frameworks/Libraries:** Node.js
+- **Databases:** MongoDB, MySQL
+- **Tools and Technologies:** Git, VS Code,
+
+<!-- ## 💼 Work Experience
+
+### [Company Name](https://www.companywebsite.com) | Software Developer | Jan 2020 - Present
+
+- Brief description of your role and responsibilities
+
+### [Company Name](https://www.companywebsite.com) | Software Developer Intern | Jun 2019 - Aug 2019
+
+- Brief description of your role and responsibilities
+
+## 🌟 Featured Projects
+
+Here are some of my featured projects that showcase my skills and expertise:
+
+### [Project Name](https://github.com/yourusername/reponame)
+
+Brief description of the project and your role in it. Mention any interesting or challenging aspects of the project.
+
+### [Project Name](https://github.com/yourusername/reponame)
+
+Brief description of the project and your role in it. Mention any interesting or challenging aspects of the project. -->
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)
+
+## 🤝 Let's Connect
+
+Connect with me on these platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/SelormDev/)
+- [Twitter](https://twitter.com/SelormDev)
+- [Portfolio Website](https://www.yourportfolio.com)
+
+I'm always open to collaboration and new projects, so feel free to reach out to me!
