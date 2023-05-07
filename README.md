@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm [Gideon Selorm Ayivi](https://www.yourportfolio.com) 👋
+# Hi there, I'm [Gideon Selorm Ayivi](https://www.linkedin.com/in/SelormDev/) 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
 
 
 I'm a software developer who loves building meaningful projects and collaborating with others. My focus is on web development, particularly with JavaScript, React, and Node.js.
 
-- 🌱 I’m currently learning more about machine learning and data analysis
+- 🌱 I’m currently a student at Ghana Communication Technology University
 - 💬 Ask me about anything related to software development or my projects
-- 📫 How to reach me: [Email](mailto:slormayivi5@example.com) or [LinkedIn](https://www.linkedin.com/in/SelormDev/)
+- 📫 How to reach me: [Email](mailto:selormayivi5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SelormDev/)
 - 😄 Pronouns: [He/Him]
 
 ## 🚀 Skills and Expertise
