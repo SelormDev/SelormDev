@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm [Gideon Selorm Ayivi](https://www.linkedin.com/in/SelormDev/) 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Web+Developer,;Partial+UI/UX+Designer,;Happy+Coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior Front-End+Web+Developer,;Partial+UI/UX+Designer,;Happy+Coding.)](https://git.io/typing-svg)
 
 <!-- ![about_me](https://github.com/SelormDev/SelormDev/assets/88237474/45a5175f-24b7-4859-8bcc-a07c4d8456ac) -->
 ## About Me
