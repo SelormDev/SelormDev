@@ -69,7 +69,7 @@ Brief description of the project and your role in it. Mention any interesting or
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=dark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)
-
+<!--
 ## 🤝 Let's Connect
 
 Connect with me on these platforms:
@@ -77,5 +77,5 @@ Connect with me on these platforms:
 - [LinkedIn](https://www.linkedin.com/in/SelormDev/)
 - [Twitter](https://twitter.com/SelormDev)
 - [Portfolio Website](https://www.yourportfolio.com)
-
+-->
 I'm always open to collaboration and new projects, so feel free to reach out to me!
