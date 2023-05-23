@@ -37,11 +37,12 @@ I'm a software developer who loves building meaningful projects and collaboratin
 
 These are some of the technologies and tools that I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
-![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&style=social)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=blue)&nbsp; -->
 <!-- ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp; -->
 <!-- ## 💼 Work Experience
 ### [Company Name](https://www.companywebsite.com) | Software Developer | Jan 2020 - Present
