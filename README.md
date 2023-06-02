@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm [Gideon Selorm Ayivi](https://www.linkedin.com/in/SelormDev/) 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Front-End+Web+Developer,;Partial+UI/UX+Designer,;Happy+Coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Front-End+Web+Developer,;Partial+UI/UX+Designer,;Computer+Science+Student.)](https://git.io/typing-svg)
 
 <!-- ![about_me](https://github.com/SelormDev/SelormDev/assets/88237474/45a5175f-24b7-4859-8bcc-a07c4d8456ac) -->
 ## About Me
 
 I'm a software developer who loves building meaningful projects and collaborating with others. My focus is on web development, particularly with JavaScript, React, and Node.js.
 
-- 🌱 I’m currently self-learning.
+- 🌱 I’m currently student at GCTU.
 - 💬 Ask me about anything related to software development or my projects
 - 📫 How to reach me: [Email](mailto:selormayivi5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SelormDev/)
 - 😄 Pronouns: [He/Him]
@@ -68,8 +68,10 @@ Brief description of the project and your role in it. Mention any interesting or
 ## 📈 GitHub Stats
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=dark) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SelormDev&theme=merko)](https://git.io/streak-stats)<br>
+
 <!--
 ## 🤝 Let's Connect
 
