@@ -71,6 +71,7 @@ Brief description of the project and your role in it. Mention any interesting or
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelormDev&show_icons=true&theme=merko)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=SelormDev&theme=merko)](https://git.io/streak-stats)<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SelormDev)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <!--
 ## 🤝 Let's Connect
