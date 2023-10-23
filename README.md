@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Selorm](https://selormdev.me)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Computer+Science+Student;Active+Learner/Researche;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=27&lines=Computer+Science+Student;Active+Learner/Researche;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true)
 	
 ##  About me
 
