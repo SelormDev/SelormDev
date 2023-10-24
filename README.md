@@ -22,7 +22,7 @@ Happy coding and animating! 🖥️🎬🎨
 
 **Web Development**:
 -->
-##  Skills
+<h2>Skills</h2>
 
 <p align="center">
 	
