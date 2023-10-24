@@ -1,8 +1,8 @@
+<!--
 # Hi there 👋 I'm [Selorm](https://selormdev.me)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=27&lines=Computer+Science+Student;Active+Learner/Researche;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true)
 
-<!--
 	
 ##  About me
 
@@ -19,28 +19,28 @@
 Happy coding and animating! 🖥️🎬🎨
 
 <br>
+
+**Web Development**:
 -->
-
 ##  Skills
+
 <p align="center">
+	
+![Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,markdown,blender,&theme=light)
 
-- **Web Development**:
-
-![Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,markdown&theme=light)
-
-
+<!--
 <br>   
 
 - **Animation**:
 
 ![Skills](https://skillicons.dev/icons?i=blender,ps&theme=light)
-
+-->
 </p>
 
 
 
 <br>
-<!--
+
 <details>
   <summary> Github Stats & Streak ⚡</summary>
   
@@ -48,5 +48,3 @@ Happy coding and animating! 🖥️🎬🎨
   ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=selormdev&theme=merko&hide_border=true)
 </details>
 
- 
--->
