@@ -26,7 +26,7 @@ Happy coding and animating! 🖥️🎬🎨
 
 <p align="center">
 	
-![Skills](https://skillicons.dev/icons?i=js,html,css,react,webpack,git,github,vscode,markdown,figma,blender,&theme=light)
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,webpack,vite,git,github,vscode,markdown,figma,blender,&theme=light)
 
 <!--
 <br>   
