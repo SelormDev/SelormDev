@@ -26,3 +26,10 @@ Let's connect and learn from each other. Feel free to reach out through my [Link
   ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=selormdev&theme=merko&hide_border=true)
 </details>
 
+
+<div align="right">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
+
+</div>
+
