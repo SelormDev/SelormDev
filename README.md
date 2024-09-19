@@ -16,8 +16,12 @@ Let's connect and learn from each other. Feel free to reach out through my [Link
 <br />
 
 ## Skills
+
+<div align="center">
 	
-![Skills](https://skillicons.dev/icons?i=typescript,js,html,css,react,tailwind,webpack,vite,git,github,vscode,markdown,figma,blender,&theme=light)
+![Skills](https://skillicons.dev/icons?i=typescript,js,python,html,css,react,tailwind,webpack,vite,git,github,vscode,markdown,figma,blender,&theme=light)
+
+</div>
 
 <details>
 <div align="center">
