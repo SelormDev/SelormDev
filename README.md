@@ -20,11 +20,14 @@ Let's connect and learn from each other. Feel free to reach out through my [Link
 ![Skills](https://skillicons.dev/icons?i=typescript,js,html,css,react,tailwind,webpack,vite,git,github,vscode,markdown,figma,blender,&theme=light)
 
 <details>
-  <summary> Github Stats & Streak ⚡</summary>
+<div align="center">
+  <h3> Github Stats & Streak ⚡</h3>
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=selormdev&theme=merko&count_private=true&hide_border=true&line_height=20)<br>
   ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=selormdev&theme=merko&hide_border=true)
+</div>
 </details>
+
 
 
 <div align="right">
