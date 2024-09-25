@@ -27,8 +27,9 @@ Let's connect and learn from each other. Feel free to reach out through my [Link
 <div align="center">
   <h3> Github Stats & Streak ⚡</h3>
   
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selormdev&theme=merko&show_icons=true&hide_border=true&layout=compact)<br>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=selormdev&theme=merko&count_private=true&hide_border=true&line_height=20)<br>
-  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=selormdev&theme=merko&hide_border=true)
+  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=selormdev&theme=merko&hide_border=true)<br>
 </div>
 </details>
 
