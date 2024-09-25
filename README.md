@@ -3,9 +3,8 @@
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=selormdev&icon=0&color=1" alt=""><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?size=27&lines=Active+Learner/Researcher;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true" alt="Typing SVG"><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?size=27&lines=Active+Learner/Researcher;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true" alt="Typing SVG">
 </div>
-
 	
 ##  About me
 
