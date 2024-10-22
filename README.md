@@ -1,3 +1,4 @@
+<!--
 <h1 align="center"> Hi there 👋 I'm <a href="https://selormdev.com">Selorm</a> </h1>
 
 
@@ -51,4 +52,4 @@ Let's connect and learn from each other. I am available on the platforms below.
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
 
 </div>
-
+-->
