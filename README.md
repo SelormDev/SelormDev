@@ -1,9 +1,9 @@
-<!--
+
 <h1 align="center"> Hi there 👋 I'm <a href="https://selormdev.com">Selorm</a> </h1>
 
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=selormdev&icon=0&color=1" alt=""><br>
+  <img src="https://visitcount.itsvg.in/api?id=selormdev&icon=0&color=0" alt=""> <a href="https://blog.selormdev.com"><img src="https://img.shields.io/static/v1?label=blog&message=blog.selormdev.com&color=teal"></a> <a href="https://www.linkedin.com/in/selormdev/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=@selormdev&color=blue"></a><br>
   <img src="https://readme-typing-svg.herokuapp.com/?size=27&lines=Active+Learner/Researcher;Front-End+Web+Developer;2D+Animation+Newbie🎨;&color=cyan&center=true&vCenter=true" alt="Typing SVG">
 </div>
 	
@@ -52,4 +52,3 @@ Let's connect and learn from each other. I am available on the platforms below.
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
 
 </div>
--->
