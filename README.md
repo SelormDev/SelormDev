@@ -29,7 +29,7 @@ Let's connect and learn from each other. I am available on the platforms below.
 
 <div align="">
 	
-![Skills](https://skillicons.dev/icons?i=typescript,js,python,html,css,react,tailwind,webpack,vite,git,github,vscode,markdown,figma,blender,&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,python,react,tailwind,git,figma,blender,&theme=dark)
 
 </div>
 
