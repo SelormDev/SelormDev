@@ -17,9 +17,6 @@ Let's connect and learn from each other. I am available on the platforms below.
 <p align="left">
 <a href="https://x.com/selormdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SelormDev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SelormDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SelormDev" height="30" width="40" /></a>
-<a href="https://kaggle.com/selormdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="SelormDev" height="30" width="40" /></a>
-<a href="https://medium.com/@selormdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="SelormDev" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/selormdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="SelormDev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/selormdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SelormDev" height="30" width="40" /></a>
 </p>
 
