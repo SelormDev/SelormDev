@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=selormdev&icon=0&color=0" alt=""> <a href="https://selormdev.com/#/blog"><img src="https://img.shields.io/static/v1?label=blog&message=selormdev.com&color=teal"></a> <a href="https://www.linkedin.com/in/selormdev/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=@selormdev&color=blue"></a><br>
+  <img src="https://visitcount.itsvg.in/api?id=selormdev&icon=0&color=0" alt=""> <a href="https://selormdev.blogspot.com/"><img src="https://img.shields.io/static/v1?label=blog&message=selormdev.com&color=teal"></a> <a href="https://www.linkedin.com/in/selormdev/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=@selormdev&color=blue"></a><br>
   <img src="https://readme-typing-svg.herokuapp.com/?size=27&lines=Active+Learner/Researcher;Creative+Web+Developer;Animation+Newbie🎨;&color=cyan&center=true&vCenter=true" alt="Typing SVG">
 </div>
 	
