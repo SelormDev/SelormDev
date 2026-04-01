@@ -26,7 +26,7 @@ Let's connect and learn from each other. I am available on the platforms below.
 
 <div align="">
 	
-![Skills](https://skillicons.dev/icons?i=php,vue,js,python,git,figma,blender,&theme=dark)
+![Skills](https://skillicons.dev/icons?i=php,js,python,git,figma,blender,&theme=dark)
 
 </div>
 
