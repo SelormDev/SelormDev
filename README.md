@@ -26,10 +26,11 @@ Let's connect and learn from each other. I am available on the platforms below.
 
 <div align="">
 	
-![Skills](https://skillicons.dev/icons?i=elixir,js,python,git,figma,blender,&theme=dark)
+![Skills](https://skillicons.dev/icons?i=php,vue,js,python,git,figma,blender,&theme=dark)
 
 </div>
 
+<!--
 <details>
   <summary>
     <h3>GitHub Stats & Streak ⚡</h3>
@@ -43,10 +44,15 @@ Let's connect and learn from each other. I am available on the platforms below.
 </div>
 </details>
 
+-->
+
 <br>
 
+<!--
 <div align="center">
 
-  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Dont+Leave+Without+Saying+Hello...)](https://git.io/typing-svg)-->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Dont+Leave+Without+Saying+Hello...)](https://git.io/typing-svg)
 
 </div>
+
+-->
