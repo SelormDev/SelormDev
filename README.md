@@ -26,33 +26,6 @@ Let's connect and learn from each other. I am available on the platforms below.
 
 <div align="">
 	
-![Skills](https://skillicons.dev/icons?i=php,js,python,git,figma,blender,&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,php,python,kotlin,ts,git,figma,blender,&theme=dark)
 
 </div>
-
-<!--
-<details>
-  <summary>
-    <h3>GitHub Stats & Streak ⚡</h3>
-  </summary>
-<div align="center">
-  
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selormdev&theme=merko&show_icons=true&hide_border=true&layout=compact)<br>
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=selormdev&theme=merko&count_private=true&hide_border=true&line_height=20)<br>
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=selormdev&theme=merko&hide_border=true)<br/>
-  
-</div>
-</details>
-
--->
-
-<br>
-
-<!--
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Dont+Leave+Without+Saying+Hello...)](https://git.io/typing-svg)
-
-</div>
-
--->
